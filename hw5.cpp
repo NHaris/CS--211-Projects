@@ -1,5 +1,6 @@
 //Haris Nawrin
 //CS 211 Homework 5
+//Backtracking without gotos
 #include <iostream>
 #include <cmath>
 using namespace std;
