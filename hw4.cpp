@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath>
 using namespace std;
-
+//8 Queens 1D Program with backtracking 
 int main() {
     int q[8], c=0;
     int config=0;
