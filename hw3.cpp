@@ -1,5 +1,6 @@
 #include <iostream>
 #include <cmath>
+// 8 queens program with 1D representation 
 using namespace std;
 
 bool ok(int q[], int c) {
